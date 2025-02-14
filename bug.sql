@@ -1,0 +1,1 @@
+In SQL, a common yet often subtle error is the incorrect use of aggregate functions within subqueries or WHERE clauses, leading to unexpected results. For example, using an aggregate function without a GROUP BY clause in a subquery might produce unintended data aggregation.
