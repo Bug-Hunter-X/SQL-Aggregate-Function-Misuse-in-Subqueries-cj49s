@@ -1,0 +1,1 @@
+To correct this, ensure that aggregate functions are used correctly within subqueries or WHERE clauses. If aggregation is needed, use a GROUP BY clause to group data appropriately. If aggregation is not necessary, remove the aggregate function and rewrite the query to filter or retrieve data directly.
